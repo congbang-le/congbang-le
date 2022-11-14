@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/leconbang314"><img src="https://api.daily.dev/devcards/b62f1c92b9204f148d2b0925bd4268ce.png?r=nxp" width="400" alt="lecongbang314's Dev Card"/></a>****
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" width="400" alt="Bang's Dev Card"/></a>
 
 ## 🚀 My articles 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/1" alt="Recent Article 1">
