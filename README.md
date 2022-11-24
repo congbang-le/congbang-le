@@ -31,7 +31,7 @@ https://congbangle.com/
   </a>
   <a href="https://app.daily.dev/DailyDevTips">
     <img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" 
-         width="320" 
+         width="310" 
          alt="Bang's Dev Card"
          align="right"
          />
