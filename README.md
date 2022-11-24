@@ -25,18 +25,21 @@ https://congbangle.com/
 
 ## &#x1f4c8; Some statistics
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/congbang-le/congbang-le">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex&theme=transparent&langs_count=4"/>
   </a>
   <a href="https://app.daily.dev/DailyDevTips">
     <img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" 
          width="310" 
          alt="Bang's Dev Card"
-         align="left"
+         align="right"
          />
   </a>
 </div>
 <a href="https://github.com/congbang-le/congbang-le">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bang's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&theme=transparent" 
+       alt="Bang's GitHub Stats" 
+       />
 </a>
+
