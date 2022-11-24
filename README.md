@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **congbang-le/congbang-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" width="400" alt="Bang's Dev Card"/></a>
+## 🚀 My blog, check it out:
+https://congbangle.com/
 
-## 🚀 My articles 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lecongbang314/0" alt="Recent Article 0">
+## 📫 How to reach me: 
 
-## &#x1f4c8; GitHub Stats
+- [Linkedin](https://www.linkedin.com/in/bang-le-brian-8327a9183/)
+- [Email](mailto:brianle.itw@gmail.com)
 
+## &#x1f4c8; Some statistics
+
+<div align="left">
+  <a href="https://github.com/congbang-le/congbang-le">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+  </a>
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" 
+         width="320" 
+         alt="Bang's Dev Card"
+         align="right"
+         />
+  </a>
+</div>
 <a href="https://github.com/congbang-le/congbang-le">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/congbang-le/congbang-le">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bang's GitHub Stats" />
 </a>
