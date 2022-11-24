@@ -25,7 +25,7 @@ https://congbangle.com/
 
 ## &#x1f4c8; Some statistics
 
-<div align="left">
+<div align="right">
   <a href="https://github.com/congbang-le/congbang-le">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
   </a>
@@ -33,10 +33,10 @@ https://congbangle.com/
     <img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" 
          width="310" 
          alt="Bang's Dev Card"
-         align="right"
+         align="left"
          />
   </a>
 </div>
 <a href="https://github.com/congbang-le/congbang-le">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bang's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bang's GitHub Stats" />
 </a>
