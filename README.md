@@ -20,7 +20,6 @@ https://congbangle.com/
 
 ## 📫 How to reach me: 
 
-- [Linkedin](https://www.linkedin.com/in/bang-le-brian-8327a9183/)
 - [Email](mailto:brianle.itw@gmail.com)
 
 ## &#x1f4c8; Some statistics
