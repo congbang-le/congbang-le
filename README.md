@@ -27,7 +27,7 @@ https://congbangle.com/
 
 <div align="left">
   <a href="https://github.com/congbang-le/congbang-le">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex,jupyter%20notebook&theme=transparent&langs_count=4"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbang-le&hide=java,html,tex,jupyter%20notebook&count_private=true&theme=transparent&langs_count=4"/>
   </a>
   <a href="https://app.daily.dev/DailyDevTips">
     <img src="https://github.com/congbang-le/congbang-le/blob/master/devcard.svg" 
