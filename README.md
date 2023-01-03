@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## 🚀 My blog, check it out:
 
-https://congbangle.com/
-https://medium.com/@lecongbang314
+- https://congbangle.com/
+- https://medium.com/@lecongbang314
 
 ## 📫 How to reach me: 
 
