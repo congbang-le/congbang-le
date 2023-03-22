@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me: 
 
-- [Linkedin](https://www.linkedin.com/in/bang-le-brian-8327a9183/)
+- [Linkedin](https://www.linkedin.com/in/bang-cong-le-660581269/)
 - [Email](mailto:brianle.itw@gmail.com)
 
 ## &#x1f4c8; Some statistics
