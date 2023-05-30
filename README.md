@@ -39,9 +39,4 @@ Here are some ideas to get you started:
          />
   </a>
 </div>
-<a href="https://github.com/congbang-le/congbang-le">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=congbang-le&show_icons=true&line_height=27&count_private=true&theme=transparent" 
-       alt="Bang's GitHub Stats" 
-       />
-</a>
 
