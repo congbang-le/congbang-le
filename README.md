@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 - https://lecongbang.medium.com/
 
-## 📫 How to reach me: 
-
-- [Linkedin](https://www.linkedin.com/in/bang-cong-le-660581269/)
-- [Email](mailto:brianle.itw@gmail.com)
-
 ## &#x1f4c8; Some statistics
 
 <div align="left">
